@@ -1,0 +1,18 @@
+Bienvenue à la table de Blackjack !
+
+Voici les règles : 
+  Dans ce jeu, vous jouez contre le croupier. Votre but est, sans dépasser 21, d'en être plus proche que le croupier.
+
+  Toutes les cartes valent le nombre inscrit dessus exceptés les figures qui valent 10, et l'as qui vaut 11 ou 1 si vous devriez sauté.
+
+  A chaque manche, vous disposez de deux choix :
+    1 = Tirer une carte
+    2 = Laisser votre jeu comme il est
+
+  Une fois que vous cessez de piocher, le croupier tirera jusqu'à dépasser 17.
+
+  Si aucun de vous deux n'a sauté, c'est le plus proche de 21 qui gagne.
+
+(En cas d'annulation ou de problème de lancement, tapez 'Manche()' dans la console)
+
+Amusez vous bien !
